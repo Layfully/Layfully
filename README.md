@@ -1,9 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Adrian Gaborek and I'm a software developer/DevOps engineer from Poland. You can find me on [![LinkedIn][3.2]][3].
-
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+My name is Adrian Gaborek and I'm a computer science student from Poland. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
