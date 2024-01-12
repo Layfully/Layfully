@@ -1,6 +1,3 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
-My name is Adrian Gaborek and I'm a computer science student from Poland. You can find me on [![LinkedIn][3.2]][3]. In my free time I like to play guitar and explore different branches of science.
-
 ## 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
